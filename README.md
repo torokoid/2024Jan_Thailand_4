@@ -132,11 +132,34 @@ p.note { display: none; }
 
 <br><br><p>以下写真集！</p>
 
+<a href="20240103_001.JPG" data-lightbox="abc"><img src="20240103_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_002.JPG" data-lightbox="abc"><img src="20240103_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_003.JPG" data-lightbox="abc"><img src="20240103_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_004.JPG" data-lightbox="abc"><img src="20240103_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_005.JPG" data-lightbox="abc"><img src="20240103_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_006.JPG" data-lightbox="abc"><img src="20240103_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_007.JPG" data-lightbox="abc"><img src="20240103_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_008.JPG" data-lightbox="abc"><img src="20240103_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_009.JPG" data-lightbox="abc"><img src="20240103_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_010.JPG" data-lightbox="abc"><img src="20240103_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_011.JPG" data-lightbox="abc"><img src="20240103_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_012.JPG" data-lightbox="abc"><img src="20240103_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_013.JPG" data-lightbox="abc"><img src="20240103_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_014.JPG" data-lightbox="abc"><img src="20240103_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_015.JPG" data-lightbox="abc"><img src="20240103_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_016.JPG" data-lightbox="abc"><img src="20240103_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_017.JPG" data-lightbox="abc"><img src="20240103_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_018.JPG" data-lightbox="abc"><img src="20240103_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_019.JPG" data-lightbox="abc"><img src="20240103_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_020.JPG" data-lightbox="abc"><img src="20240103_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_021.JPG" data-lightbox="abc"><img src="20240103_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_022.JPG" data-lightbox="abc"><img src="20240103_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_023.JPG" data-lightbox="abc"><img src="20240103_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240103_024.JPG" data-lightbox="abc"><img src="20240103_024.JPG" alt="サンプル画像" width="900" /></a>
 
-
-<br><br>
+<br><br><!--
 <p>以下LINE共有された画集</p>
-<p>12月31日、パタヤからバンコクへの帰路にあるおしゃれなカフェ</p>
+<p>12月31日、パタヤからバンコクへの帰路にあるおしゃれなカフェ</p>-->
 
 
 

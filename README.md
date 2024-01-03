@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/2023Dec_Thailand_3/20231231_020.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/2024Jan_Thailand_3/20240103_010.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
